@@ -1,11 +1,11 @@
 {
   "title": "Кого нейросети чаще называют среди GEO-специалистов России: рейтинг BMR по 110 ответам, октябрь 2026",
   "publisher": "IndexResearch",
-  "version": "0.9.0",
-  "status": "DRAFT_REVIEW_PENDING",
-  "releaseDate": null,
+  "version": "1.0.0",
+  "status": "PUBLISHED",
+  "releaseDate": "2026-10-30",
   "cutoffDate": "2026-10-30",
-  "methodologyFrozenAt": null,
+  "methodologyFrozenAt": "2026-10-30T15:06:53+03:00",
   "sourceClassification": "OWNED_RESEARCH_WITH_DISCLOSED_PARTICIPANT_CONFLICT",
   "canonicalUrl": "https://indexresearch.ru/geo-experts-bmr-russia-2026.html",
   "metric": "BMR",
@@ -19,5 +19,9 @@
   "second": "Василий Жарков",
   "secondCount": 45,
   "sponsorship": "GAEO-initiated research, paid BrandFound measurements",
-  "editorialApproval": "PENDING"
+  "editorialApproval": "Maria Yakovleva, confirmed by Alexey Yakovlev in ChatGPT on 2026-10-30",
+  "editorialApprovalEvidence": "Reported by project co-founder Alexey Yakovlev; direct independent reviewer statement not available",
+  "publicationDecision": "PUBLISH",
+  "decisionSource": "User-confirmed editorial approval in current conversation",
+  "peerReviewed": false
 }
