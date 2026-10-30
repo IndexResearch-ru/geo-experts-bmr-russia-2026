@@ -1,5 +1,5 @@
 {
-  "status": "DRAFT_UNDER_REVIEW",
+  "status": "PUBLISHED_BMR",
   "snapshot_date": "2026-10-30",
   "first_answer_utc": "2026-10-30T07:34:02.151Z",
   "last_answer_utc": "2026-10-30T07:51:04.864Z",
@@ -49,5 +49,8 @@
     "bmr_nazarov": 32
   },
   "published_metric": "BMR",
-  "editorial_approval": "PENDING"
+  "editorial_approval": "Maria Yakovleva, reported by Alexey Yakovlev on 2026-10-30",
+  "bmr_release_version": "1.0.0",
+  "methodology_frozen_at": "2026-10-30T15:06:53+03:00",
+  "frs_publication_status": "NOT_PART_OF_BMR_RELEASE; PENDING_SEPARATE_REVIEW"
 }
