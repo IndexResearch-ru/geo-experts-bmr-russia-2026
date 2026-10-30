@@ -1,5 +1,5 @@
 {
-  "status": "DRAFT_REVIEW_PENDING",
+  "status": "PUBLISHED",
   "dataset_date": "2026-10-30",
   "metric": "BMR",
   "definition": "Доля всех валидных ответов, содержащих полное имя и фамилию человека. Упоминания в цитатах, включая критические, учитываются. Не равно рекомендации.",
@@ -2270,5 +2270,7 @@
   "conflict_of_interest": "Founder-linked owned research; Alexey Yakovlev is co-founder of IndexResearch",
   "raw_data": "data/observations.jsonl",
   "labeling_protocol": null,
-  "approval": "PENDING"
+  "approval": "Maria Yakovleva editorial approval as reported by Alexey Yakovlev (2026-10-30)",
+  "version": "1.0.0",
+  "methodologyFrozenAt": "2026-10-30T15:06:53+03:00"
 }
