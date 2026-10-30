@@ -1,0 +1,6 @@
+source_id,type,independent,public,access,source_url,purpose
+BF-01,primary,false,false,restricted,https://github.com/gaeo-ru/brandfound-runner,48 answers
+BF-02,primary,false,false,restricted,https://github.com/gaeo-ru/brandfound-runner,30 answers
+BF-03,primary,false,false,restricted,https://github.com/gaeo-ru/brandfound-runner,32 answers
+IR-01,primary,false,true,public,https://github.com/IndexResearch-ru/IndexResearch-ru.github.io,Public answer subset and coding
+IR-02,methodology,false,true,public,https://github.com/IndexResearch-ru/ai-visibility-methodology,AI visibility methods

@@ -1,0 +1,23 @@
+{
+  "title": "Кого нейросети чаще называют среди GEO-специалистов России: рейтинг BMR по 110 ответам, октябрь 2026",
+  "publisher": "IndexResearch",
+  "version": "0.9.0",
+  "status": "DRAFT_REVIEW_PENDING",
+  "releaseDate": null,
+  "cutoffDate": "2026-10-30",
+  "methodologyFrozenAt": null,
+  "sourceClassification": "OWNED_RESEARCH_WITH_DISCLOSED_PARTICIPANT_CONFLICT",
+  "canonicalUrl": "https://indexresearch.ru/geo-experts-bmr-russia-2026.html",
+  "metric": "BMR",
+  "validAnswers": 110,
+  "engines": 11,
+  "prompts": 10,
+  "participants": 74,
+  "leader": "Алексей Яковлев",
+  "leaderCount": 75,
+  "leaderPercent": 68.18181818181817,
+  "second": "Василий Жарков",
+  "secondCount": 45,
+  "sponsorship": "GAEO-initiated research, paid BrandFound measurements",
+  "editorialApproval": "PENDING"
+}

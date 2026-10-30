@@ -1,0 +1,2274 @@
+{
+  "status": "DRAFT_REVIEW_PENDING",
+  "dataset_date": "2026-10-30",
+  "metric": "BMR",
+  "definition": "Доля всех валидных ответов, содержащих полное имя и фамилию человека. Упоминания в цитатах, включая критические, учитываются. Не равно рекомендации.",
+  "snapshot_answers": 110,
+  "engine_count": 11,
+  "prompts_per_engine": 10,
+  "people_in_lexicon": 74,
+  "ranked_people": 74,
+  "missing_personal_first": null,
+  "ranking": [
+    {
+      "rank": 1,
+      "name": "Алексей Яковлев",
+      "count": 75,
+      "percent": 68.1818
+    },
+    {
+      "rank": 2,
+      "name": "Василий Жарков",
+      "count": 45,
+      "percent": 40.9091
+    },
+    {
+      "rank": 3,
+      "name": "Владимир Назаров",
+      "count": 32,
+      "percent": 29.0909
+    },
+    {
+      "rank": 4,
+      "name": "Дмитрий Севальнев",
+      "count": 27,
+      "percent": 24.5455
+    },
+    {
+      "rank": 5,
+      "name": "Александр Тригуб",
+      "count": 25,
+      "percent": 22.7273
+    },
+    {
+      "rank": 6,
+      "name": "Максим Мельников",
+      "count": 19,
+      "percent": 17.2727
+    },
+    {
+      "rank": 7,
+      "name": "Максим Фомин",
+      "count": 16,
+      "percent": 14.5455
+    },
+    {
+      "rank": 8,
+      "name": "Вячеслав Савицкий",
+      "count": 14,
+      "percent": 12.7273
+    },
+    {
+      "rank": 9,
+      "name": "Александр Ознобишин",
+      "count": 13,
+      "percent": 11.8182
+    },
+    {
+      "rank": 10,
+      "name": "Владимир Малюгин",
+      "count": 12,
+      "percent": 10.9091
+    },
+    {
+      "rank": 11,
+      "name": "Сергей Язовский",
+      "count": 10,
+      "percent": 9.0909
+    },
+    {
+      "rank": 12,
+      "name": "Сергей Посконный",
+      "count": 9,
+      "percent": 8.1818
+    },
+    {
+      "rank": 12,
+      "name": "Сергей Сивков",
+      "count": 9,
+      "percent": 8.1818
+    },
+    {
+      "rank": 14,
+      "name": "Анастасия Акст",
+      "count": 7,
+      "percent": 6.3636
+    },
+    {
+      "rank": 15,
+      "name": "Александр Сергеев",
+      "count": 6,
+      "percent": 5.4545
+    },
+    {
+      "rank": 16,
+      "name": "Николай Львович",
+      "count": 5,
+      "percent": 4.5455
+    },
+    {
+      "rank": 17,
+      "name": "Дмитрий Дамарнацкий",
+      "count": 4,
+      "percent": 3.6364
+    },
+    {
+      "rank": 17,
+      "name": "Дмитрий Шеховцев",
+      "count": 4,
+      "percent": 3.6364
+    },
+    {
+      "rank": 17,
+      "name": "Илья Ливенцев",
+      "count": 4,
+      "percent": 3.6364
+    },
+    {
+      "rank": 17,
+      "name": "Юрий Русинов",
+      "count": 4,
+      "percent": 3.6364
+    },
+    {
+      "rank": 21,
+      "name": "Виталий Исаков",
+      "count": 3,
+      "percent": 2.7273
+    },
+    {
+      "rank": 21,
+      "name": "Илья Карбышев",
+      "count": 3,
+      "percent": 2.7273
+    },
+    {
+      "rank": 21,
+      "name": "Михаил Мятов",
+      "count": 3,
+      "percent": 2.7273
+    },
+    {
+      "rank": 21,
+      "name": "Сергей Погодаев",
+      "count": 3,
+      "percent": 2.7273
+    },
+    {
+      "rank": 25,
+      "name": "Андрей Бакленев",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Артем Маркелов",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Владислав Пучков",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Глеб Остроумов",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Евгений Ванжула",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Максим Валецкий",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Максим Котенков",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Максим Сафьянов",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 25,
+      "name": "Роман Ковалев",
+      "count": 2,
+      "percent": 1.8182
+    },
+    {
+      "rank": 34,
+      "name": "Александр Бахарев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Александр Лушников",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Александр Ожгибесов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Александр Сивков",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Александр Шерстов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Алексей Малков",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Алексей Чекушин",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Андрей Кружков",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Анна Платова",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Артем Фирсов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Валентин Пахомов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Владимир Синицын",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Глафира Дорохина",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Глеб Андриишин",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Денис Ковалев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Денис Шубенок",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Дмитрий Иглин",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Евгений Ебаев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Евгений Казанцев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Егор Федоров",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Игорь Ашманов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Илья Кочнев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Кирилл Власов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Маргарита Перова",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Михаил Шакин",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Надежда Угленко",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Наталья Натарова",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Никита Долгих",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Николай Романцов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Олег Черников",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Павел Талакин",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Роман Киреев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Роман Михальчук",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Роман Шалунов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Семен Сафронов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Сергей Ерофеев",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Сергей Купряшкин",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Сергей Проcветов",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Станислав Татьянченко",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Станислав Щербаков",
+      "count": 1,
+      "percent": 0.9091
+    },
+    {
+      "rank": 34,
+      "name": "Эмиль Халимов",
+      "count": 1,
+      "percent": 0.9091
+    }
+  ],
+  "per_engine": [
+    {
+      "provider": "chatgpt",
+      "label": "ChatGPT",
+      "responses": 10,
+      "alexey": 10,
+      "zharkov": 7,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 10,
+          "percent": 100
+        },
+        {
+          "rank": 2,
+          "name": "Александр Тригуб",
+          "count": 7,
+          "percent": 70
+        },
+        {
+          "rank": 2,
+          "name": "Василий Жарков",
+          "count": 7,
+          "percent": 70
+        },
+        {
+          "rank": 4,
+          "name": "Дмитрий Севальнев",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Максим Мельников",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 6,
+          "name": "Александр Ознобишин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Анастасия Акст",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Артем Фирсов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Виталий Исаков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Владимир Назаров",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Владислав Пучков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Вячеслав Савицкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Дмитрий Дамарнацкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Илья Кочнев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Максим Фомин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Наталья Натарова",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Павел Талакин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Сергей Посконный",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Сергей Сивков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Станислав Татьянченко",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "perplexity",
+      "label": "Perplexity",
+      "responses": 10,
+      "alexey": 10,
+      "zharkov": 6,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 10,
+          "percent": 100
+        },
+        {
+          "rank": 2,
+          "name": "Василий Жарков",
+          "count": 6,
+          "percent": 60
+        },
+        {
+          "rank": 3,
+          "name": "Вячеслав Савицкий",
+          "count": 5,
+          "percent": 50
+        },
+        {
+          "rank": 4,
+          "name": "Владимир Назаров",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 4,
+          "name": "Дмитрий Севальнев",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 4,
+          "name": "Максим Мельников",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 7,
+          "name": "Александр Тригуб",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 7,
+          "name": "Виталий Исаков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 9,
+          "name": "Анастасия Акст",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 9,
+          "name": "Владимир Малюгин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 9,
+          "name": "Максим Фомин",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "deepseek",
+      "label": "DeepSeek",
+      "responses": 10,
+      "alexey": 10,
+      "zharkov": 3,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 10,
+          "percent": 100
+        },
+        {
+          "rank": 2,
+          "name": "Владимир Назаров",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 2,
+          "name": "Дмитрий Шеховцев",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 2,
+          "name": "Сергей Язовский",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 5,
+          "name": "Александр Тригуб",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Василий Жарков",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Вячеслав Савицкий",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Максим Мельников",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Михаил Мятов",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Николай Львович",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Сергей Посконный",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Сергей Сивков",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 13,
+          "name": "Александр Ознобишин",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Анастасия Акст",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Глеб Остроумов",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Максим Валецкий",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Максим Сафьянов",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Максим Фомин",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Юрий Русинов",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 20,
+          "name": "Александр Шерстов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Алексей Малков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Андрей Кружков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Анна Платова",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Владимир Синицын",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Глафира Дорохина",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Дмитрий Дамарнацкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Дмитрий Севальнев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Маргарита Перова",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Никита Долгих",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 20,
+          "name": "Семен Сафронов",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "grok",
+      "label": "Grok",
+      "responses": 10,
+      "alexey": 9,
+      "zharkov": 8,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 9,
+          "percent": 90
+        },
+        {
+          "rank": 2,
+          "name": "Василий Жарков",
+          "count": 8,
+          "percent": 80
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Назаров",
+          "count": 6,
+          "percent": 60
+        },
+        {
+          "rank": 4,
+          "name": "Дмитрий Севальнев",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 4,
+          "name": "Максим Фомин",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 6,
+          "name": "Владимир Малюгин",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 6,
+          "name": "Вячеслав Савицкий",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 6,
+          "name": "Сергей Посконный",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 9,
+          "name": "Максим Котенков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 9,
+          "name": "Сергей Сивков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 11,
+          "name": "Александр Тригуб",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "claude",
+      "label": "Claude",
+      "responses": 10,
+      "alexey": 8,
+      "zharkov": 3,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 8,
+          "percent": 80
+        },
+        {
+          "rank": 2,
+          "name": "Владимир Назаров",
+          "count": 6,
+          "percent": 60
+        },
+        {
+          "rank": 3,
+          "name": "Максим Мельников",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 3,
+          "name": "Сергей Язовский",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 5,
+          "name": "Александр Ознобишин",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Василий Жарков",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 5,
+          "name": "Максим Фомин",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 8,
+          "name": "Александр Тригуб",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 8,
+          "name": "Андрей Бакленев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 8,
+          "name": "Владимир Малюгин",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 8,
+          "name": "Дмитрий Севальнев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 8,
+          "name": "Илья Ливенцев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 13,
+          "name": "Александр Сергеев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 13,
+          "name": "Артем Маркелов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 13,
+          "name": "Роман Ковалев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 13,
+          "name": "Сергей Проcветов",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "gemini",
+      "label": "Google Gemini",
+      "responses": 10,
+      "alexey": 7,
+      "zharkov": 2,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 7,
+          "percent": 70
+        },
+        {
+          "rank": 2,
+          "name": "Максим Мельников",
+          "count": 5,
+          "percent": 50
+        },
+        {
+          "rank": 3,
+          "name": "Александр Тригуб",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 4,
+          "name": "Александр Ознобишин",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Александр Сергеев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Анастасия Акст",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Василий Жарков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Илья Ливенцев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Сергей Погодаев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Юрий Русинов",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 11,
+          "name": "Владимир Малюгин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Денис Шубенок",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Дмитрий Иглин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Егор Федоров",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Николай Романцов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Сергей Посконный",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Сергей Язовский",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 11,
+          "name": "Эмиль Халимов",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "google_ai_mode",
+      "label": "Google AI Mode",
+      "responses": 10,
+      "alexey": 5,
+      "zharkov": 2,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 5,
+          "percent": 50
+        },
+        {
+          "rank": 2,
+          "name": "Александр Тригуб",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 3,
+          "name": "Александр Ознобишин",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Назаров",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 3,
+          "name": "Дмитрий Севальнев",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 6,
+          "name": "Василий Жарков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 6,
+          "name": "Максим Мельников",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 8,
+          "name": "Александр Бахарев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Александр Лушников",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Александр Сергеев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Денис Ковалев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Игорь Ашманов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Михаил Шакин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Надежда Угленко",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Олег Черников",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Роман Шалунов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Сергей Погодаев",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "google_ai_overview",
+      "label": "Google AI Overviews",
+      "responses": 10,
+      "alexey": 5,
+      "zharkov": 2,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 5,
+          "percent": 50
+        },
+        {
+          "rank": 2,
+          "name": "Александр Тригуб",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 2,
+          "name": "Василий Жарков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 2,
+          "name": "Владимир Назаров",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 5,
+          "name": "Александр Ознобишин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Владислав Пучков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Вячеслав Савицкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Дмитрий Севальнев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Евгений Ванжула",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Евгений Ебаев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Илья Карбышев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Кирилл Власов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Сергей Купряшкин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Станислав Щербаков",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "gigachat",
+      "label": "GigaChat",
+      "responses": 10,
+      "alexey": 4,
+      "zharkov": 3,
+      "leader": "Алексей Яковлев",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 1,
+          "name": "Дмитрий Севальнев",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 3,
+          "name": "Василий Жарков",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 4,
+          "name": "Максим Фомин",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 5,
+          "name": "Александр Сергеев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Александр Сивков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Алексей Чекушин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Валентин Пахомов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Владимир Малюгин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Владимир Назаров",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Евгений Ванжула",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Евгений Казанцев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Илья Карбышев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Сергей Ерофеев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 5,
+          "name": "Сергей Посконный",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "yandex_alice",
+      "label": "Яндекс с Алисой (поиск)",
+      "responses": 10,
+      "alexey": 4,
+      "zharkov": 5,
+      "leader": "Василий Жарков",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Василий Жарков",
+          "count": 5,
+          "percent": 50
+        },
+        {
+          "rank": 2,
+          "name": "Алексей Яковлев",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Назаров",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 4,
+          "name": "Дмитрий Севальнев",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 4,
+          "name": "Николай Львович",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 6,
+          "name": "Александр Ознобишин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Александр Сергеев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Александр Тригуб",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Анастасия Акст",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Владимир Малюгин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Вячеслав Савицкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Глеб Андриишин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Дмитрий Дамарнацкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Максим Фомин",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Роман Михальчук",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Сергей Сивков",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 6,
+          "name": "Сергей Язовский",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    },
+    {
+      "provider": "alice_chat",
+      "label": "Алиса AI (чат)",
+      "responses": 10,
+      "alexey": 3,
+      "zharkov": 4,
+      "leader": "Василий Жарков",
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Василий Жарков",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 1,
+          "name": "Дмитрий Севальнев",
+          "count": 4,
+          "percent": 40
+        },
+        {
+          "rank": 3,
+          "name": "Алексей Яковлев",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Малюгин",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Назаров",
+          "count": 3,
+          "percent": 30
+        },
+        {
+          "rank": 6,
+          "name": "Максим Фомин",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 6,
+          "name": "Сергей Сивков",
+          "count": 2,
+          "percent": 20
+        },
+        {
+          "rank": 8,
+          "name": "Александр Ожгибесов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Артем Маркелов",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Дмитрий Дамарнацкий",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Илья Карбышев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Роман Киреев",
+          "count": 1,
+          "percent": 10
+        },
+        {
+          "rank": 8,
+          "name": "Роман Ковалев",
+          "count": 1,
+          "percent": 10
+        }
+      ]
+    }
+  ],
+  "sensitivity": {
+    "Q01-Q07": {
+      "responses": 77,
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 50,
+          "percent": 64.9351
+        },
+        {
+          "rank": 2,
+          "name": "Василий Жарков",
+          "count": 37,
+          "percent": 48.0519
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Назаров",
+          "count": 25,
+          "percent": 32.4675
+        },
+        {
+          "rank": 4,
+          "name": "Дмитрий Севальнев",
+          "count": 23,
+          "percent": 29.8701
+        },
+        {
+          "rank": 5,
+          "name": "Александр Тригуб",
+          "count": 18,
+          "percent": 23.3766
+        },
+        {
+          "rank": 6,
+          "name": "Максим Мельников",
+          "count": 13,
+          "percent": 16.8831
+        },
+        {
+          "rank": 6,
+          "name": "Максим Фомин",
+          "count": 13,
+          "percent": 16.8831
+        },
+        {
+          "rank": 8,
+          "name": "Владимир Малюгин",
+          "count": 11,
+          "percent": 14.2857
+        },
+        {
+          "rank": 9,
+          "name": "Вячеслав Савицкий",
+          "count": 9,
+          "percent": 11.6883
+        },
+        {
+          "rank": 10,
+          "name": "Александр Ознобишин",
+          "count": 8,
+          "percent": 10.3896
+        },
+        {
+          "rank": 11,
+          "name": "Анастасия Акст",
+          "count": 7,
+          "percent": 9.0909
+        },
+        {
+          "rank": 11,
+          "name": "Сергей Посконный",
+          "count": 7,
+          "percent": 9.0909
+        },
+        {
+          "rank": 11,
+          "name": "Сергей Язовский",
+          "count": 7,
+          "percent": 9.0909
+        },
+        {
+          "rank": 14,
+          "name": "Сергей Сивков",
+          "count": 5,
+          "percent": 6.4935
+        },
+        {
+          "rank": 15,
+          "name": "Александр Сергеев",
+          "count": 4,
+          "percent": 5.1948
+        },
+        {
+          "rank": 15,
+          "name": "Николай Львович",
+          "count": 4,
+          "percent": 5.1948
+        },
+        {
+          "rank": 15,
+          "name": "Юрий Русинов",
+          "count": 4,
+          "percent": 5.1948
+        },
+        {
+          "rank": 18,
+          "name": "Виталий Исаков",
+          "count": 3,
+          "percent": 3.8961
+        },
+        {
+          "rank": 18,
+          "name": "Дмитрий Шеховцев",
+          "count": 3,
+          "percent": 3.8961
+        },
+        {
+          "rank": 18,
+          "name": "Илья Карбышев",
+          "count": 3,
+          "percent": 3.8961
+        },
+        {
+          "rank": 18,
+          "name": "Илья Ливенцев",
+          "count": 3,
+          "percent": 3.8961
+        },
+        {
+          "rank": 18,
+          "name": "Михаил Мятов",
+          "count": 3,
+          "percent": 3.8961
+        },
+        {
+          "rank": 18,
+          "name": "Сергей Погодаев",
+          "count": 3,
+          "percent": 3.8961
+        },
+        {
+          "rank": 24,
+          "name": "Владислав Пучков",
+          "count": 2,
+          "percent": 2.5974
+        },
+        {
+          "rank": 24,
+          "name": "Максим Валецкий",
+          "count": 2,
+          "percent": 2.5974
+        },
+        {
+          "rank": 26,
+          "name": "Александр Сивков",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Александр Шерстов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Алексей Чекушин",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Андрей Бакленев",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Андрей Кружков",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Артем Маркелов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Артем Фирсов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Владимир Синицын",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Глеб Остроумов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Денис Шубенок",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Дмитрий Дамарнацкий",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Евгений Ебаев",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Евгений Казанцев",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Игорь Ашманов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Илья Кочнев",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Кирилл Власов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Максим Котенков",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Максим Сафьянов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Михаил Шакин",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Надежда Угленко",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Николай Романцов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Роман Ковалев",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Сергей Ерофеев",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Сергей Купряшкин",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Сергей Проcветов",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Станислав Татьянченко",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Станислав Щербаков",
+          "count": 1,
+          "percent": 1.2987
+        },
+        {
+          "rank": 26,
+          "name": "Эмиль Халимов",
+          "count": 1,
+          "percent": 1.2987
+        }
+      ]
+    },
+    "Q08-Q10": {
+      "responses": 33,
+      "ranking": [
+        {
+          "rank": 1,
+          "name": "Алексей Яковлев",
+          "count": 25,
+          "percent": 75.7576
+        },
+        {
+          "rank": 2,
+          "name": "Василий Жарков",
+          "count": 8,
+          "percent": 24.2424
+        },
+        {
+          "rank": 3,
+          "name": "Александр Тригуб",
+          "count": 7,
+          "percent": 21.2121
+        },
+        {
+          "rank": 3,
+          "name": "Владимир Назаров",
+          "count": 7,
+          "percent": 21.2121
+        },
+        {
+          "rank": 5,
+          "name": "Максим Мельников",
+          "count": 6,
+          "percent": 18.1818
+        },
+        {
+          "rank": 6,
+          "name": "Александр Ознобишин",
+          "count": 5,
+          "percent": 15.1515
+        },
+        {
+          "rank": 6,
+          "name": "Вячеслав Савицкий",
+          "count": 5,
+          "percent": 15.1515
+        },
+        {
+          "rank": 8,
+          "name": "Дмитрий Севальнев",
+          "count": 4,
+          "percent": 12.1212
+        },
+        {
+          "rank": 8,
+          "name": "Сергей Сивков",
+          "count": 4,
+          "percent": 12.1212
+        },
+        {
+          "rank": 10,
+          "name": "Дмитрий Дамарнацкий",
+          "count": 3,
+          "percent": 9.0909
+        },
+        {
+          "rank": 10,
+          "name": "Максим Фомин",
+          "count": 3,
+          "percent": 9.0909
+        },
+        {
+          "rank": 10,
+          "name": "Сергей Язовский",
+          "count": 3,
+          "percent": 9.0909
+        },
+        {
+          "rank": 13,
+          "name": "Александр Сергеев",
+          "count": 2,
+          "percent": 6.0606
+        },
+        {
+          "rank": 13,
+          "name": "Евгений Ванжула",
+          "count": 2,
+          "percent": 6.0606
+        },
+        {
+          "rank": 13,
+          "name": "Сергей Посконный",
+          "count": 2,
+          "percent": 6.0606
+        },
+        {
+          "rank": 16,
+          "name": "Александр Бахарев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Александр Лушников",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Александр Ожгибесов",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Алексей Малков",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Андрей Бакленев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Анна Платова",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Артем Маркелов",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Валентин Пахомов",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Владимир Малюгин",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Глафира Дорохина",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Глеб Андриишин",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Глеб Остроумов",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Денис Ковалев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Дмитрий Иглин",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Дмитрий Шеховцев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Егор Федоров",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Илья Ливенцев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Максим Котенков",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Максим Сафьянов",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Маргарита Перова",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Наталья Натарова",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Никита Долгих",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Николай Львович",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Олег Черников",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Павел Талакин",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Роман Киреев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Роман Ковалев",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Роман Михальчук",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Роман Шалунов",
+          "count": 1,
+          "percent": 3.0303
+        },
+        {
+          "rank": 16,
+          "name": "Семен Сафронов",
+          "count": 1,
+          "percent": 3.0303
+        }
+      ]
+    }
+  },
+  "limitations": [
+    "Выборка вопросов заранее предложена заинтересованной стороной и включает 3 формулировки с акцентом на персональный формат работы.",
+    "Методика аналитики и FRS-кодирование формализованы после получения ответов; это ретроспективный, не предзарегистрированный срез.",
+    "До среза существовали связанные с GAEO и IndexResearch публикации; они могли служить источниками для нейросетей.",
+    "Разные варианты запросов для 5 и 6 интерфейсов не допускают чистой каузальной интерпретации различий интерфейсов.",
+    "Это один запрос на пару, без повторов; оценка вариативности ответов отсутствует.",
+    "Связь издателя с Алексеем Яковлевым и финансирование измерения со стороны GAEO раскрыты. Исследование не доказывает реальное качество услуг."
+  ],
+  "conflict_of_interest": "Founder-linked owned research; Alexey Yakovlev is co-founder of IndexResearch",
+  "raw_data": "data/observations.jsonl",
+  "labeling_protocol": null,
+  "approval": "PENDING"
+}

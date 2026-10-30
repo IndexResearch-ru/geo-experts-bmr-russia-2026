@@ -1,0 +1,53 @@
+{
+  "status": "DRAFT_UNDER_REVIEW",
+  "snapshot_date": "2026-10-30",
+  "first_answer_utc": "2026-10-30T07:34:02.151Z",
+  "last_answer_utc": "2026-10-30T07:51:04.864Z",
+  "observations": 110,
+  "prompts": 10,
+  "providers": [
+    "chatgpt",
+    "claude",
+    "perplexity",
+    "deepseek",
+    "grok",
+    "gemini",
+    "google_ai_mode",
+    "google_ai_overview",
+    "gigachat",
+    "yandex_alice",
+    "alice_chat"
+  ],
+  "people_identified": 74,
+  "redactions": {
+    "emails": 7,
+    "phones": 1
+  },
+  "source_requests": [
+    {
+      "request_id": "setup-gaeo-experts-unqualified-8x6-20261030-01",
+      "mode": "setup_measure",
+      "count": 48,
+      "status": "success"
+    },
+    {
+      "request_id": "setup-gaeo-experts-geotargeted-6x5-20261030-01",
+      "mode": "setup_measure",
+      "count": 30,
+      "status": "success"
+    },
+    {
+      "request_id": "measure-gaeo-experts-existing-4q-32pairs-20261030-01",
+      "mode": "measure",
+      "count": 32,
+      "status": "success"
+    }
+  ],
+  "provisional_control_totals": {
+    "bmr_alexey": 75,
+    "bmr_zharkov": 45,
+    "bmr_nazarov": 32
+  },
+  "published_metric": "BMR",
+  "editorial_approval": "PENDING"
+}

@@ -1,0 +1,4 @@
+claim_id,claim,count,denominator,source_path
+C01,Alexey Yakovlev BMR,75,110,data/observations.jsonl
+C02,Vasily Zharkov BMR,45,110,data/observations.jsonl
+C03,Valid observations,110,110,data/manifest.json
