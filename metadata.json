@@ -23,5 +23,8 @@
   "editorialApprovalEvidence": "Reported by project co-founder Alexey Yakovlev; direct independent reviewer statement not available",
   "publicationDecision": "PUBLISH",
   "decisionSource": "User-confirmed editorial approval in current conversation",
-  "peerReviewed": false
+  "peerReviewed": false,
+  "step8Status": "COMPLETE_SOURCE_CI_REGISTRY_V6_2",
+  "step8RegistryCheckedAt": "2026-11-05",
+  "step8AuditMethod": "GitHub main source readback, existing site CI/Pages evidence, live GAEO registry; browser and final redirections not claimed"
 }
